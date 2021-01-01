@@ -1,0 +1,10 @@
+turf
+	icon='Turfs.dmi'
+	Grass
+		icon_state="Grass"
+	Dirt
+		icon_state="Dirt"
+	Wall
+		density=1
+		opacity=1
+		icon_state="Wall"
