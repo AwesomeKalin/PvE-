@@ -1,5 +1,6 @@
 world
 	name="Tutorial"
+	hub = "AwesomeKalin55.PvE"
 	mob=/mob/Player
 
 mob/Player
